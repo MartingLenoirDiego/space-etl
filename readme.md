@@ -22,7 +22,7 @@ An automated ETL pipeline that extracts, transforms, and loads space data from N
 
 ## 🚀 Getting Started
 ```bash
-git clone https://github.com/ton-username/space-etl.git
+git clone https://github.com/MartingLenoirDiego/space-etl.git
 cd space-etl
 python -m venv venv
 source venv/bin/activate
